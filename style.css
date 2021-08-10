@@ -1,0 +1,43 @@
+.form{
+    width: 800px;
+    height: 1200px;
+    margin-left: 23%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: thistle;
+}
+.form-mid{
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-top: 40px;
+}
+label{
+font-weight: 100 !important;
+}
+  hr {
+    border: 1px solid #706e6e;
+    margin-bottom: 25px;
+    width: 95%;
+    align-items: center;
+  }
+  
+  /* Set a style for the submit button */
+  .registerbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin-left: 70%;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.9;
+  }
+  
+  .registerbtn:hover {
+    opacity: 1;
+  }
+  
+  
+ 
